@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "book": "Astronomy",
+        "book_name": "Cosmos",
+        "edition": "1st",
+        "author": "Carl Sagan",
+        "publication_year": 1980,
+        "publication_month": 9,
+        "publication_day": 1
+    },
+    {
+        "id": 2,
+        "book": "Astronomy",
+        "book_name": "A Brief History of Time",
+        "edition": "1st",
+        "author": "Stephen Hawking",
+        "publication_year": 1988,
+        "publication_month": 4,
+        "publication_day": 1
+    },
+    {
+        "id": 3,
+        "book": "Astronomy",
+        "book_name": "The Elegant Universe",
+        "edition": "2nd",
+        "author": "Brian Greene",
+        "publication_year": 2003,
+        "publication_month": 10,
+        "publication_day": 1
+    },
+    {
+        "id": 4,
+        "book": "Electronics",
+        "book_name": "The Art of Electronics",
+        "edition": "3rd",
+        "author": "Paul Horowitz, Winfield Hill",
+        "publication_year": 2015,
+        "publication_month": 4,
+        "publication_day": 9
+    },
+    {
+        "id": 5,
+        "book": "Electronics",
+        "book_name": "Make: Electronics",
+        "edition": "2nd",
+        "author": "Charles Platt",
+        "publication_year": 2015,
+        "publication_month": 10,
+        "publication_day": 30
+    },
+    {
+        "id": 6,
+        "book": "Electronics",
+        "book_name": "Practical Electronics for Inventors",
+        "edition": "4th",
+        "author": "Paul Scherz, Simon Monk",
+        "publication_year": 2016,
+        "publication_month": 3,
+        "publication_day": 15
+    },
+    {
+        "id": 7,
+        "book": "Programming",
+        "book_name": "Clean Code",
+        "edition": "1st",
+        "author": "Robert C. Martin",
+        "publication_year": 2008,
+        "publication_month": 8,
+        "publication_day": 1
+    },
+    {
+        "id": 8,
+        "book": "Programming",
+        "book_name": "The Pragmatic Programmer",
+        "edition": "2nd",
+        "author": "Andrew Hunt, David Thomas",
+        "publication_year": 2019,
+        "publication_month": 9,
+        "publication_day": 13
+    },
+    {
+        "id": 9,
+        "book": "Programming",
+        "book_name": "Introduction to the Theory of Computation",
+        "edition": "3rd",
+        "author": "Michael Sipser",
+        "publication_year": 2012,
+        "publication_month": 6,
+        "publication_day": 27
+    },
+    {
+        "id": 10,
+        "book": "Law",
+        "book_name": "Black's Law Dictionary",
+        "edition": "11th",
+        "author": "Bryan A. Garner",
+        "publication_year": 2019,
+        "publication_month": 6,
+        "publication_day": 10
+    },
+    {
+        "id": 11,
+        "book": "Law",
+        "book_name": "Understanding Criminal Law",
+        "edition": "8th",
+        "author": "Joshua Dressler",
+        "publication_year": 2018,
+        "publication_month": 3,
+        "publication_day": 12
+    },
+    {
+        "id": 12,
+        "book": "Law",
+        "book_name": "Constitutional Law: Principles and Policies",
+        "edition": "6th",
+        "author": "Erwin Chemerinsky",
+        "publication_year": 2019,
+        "publication_month": 12,
+        "publication_day": 10
+    },
+    {
+        "id": 13,
+        "book": "Marketing",
+        "book_name": "Influence: The Psychology of Persuasion",
+        "edition": "1st",
+        "author": "Robert B. Cialdini",
+        "publication_year": 1984,
+        "publication_month": 1,
+        "publication_day": 1
+    },
+    {
+        "id": 14,
+        "book": "Marketing",
+        "book_name": "Contagious: How to Build Word of Mouth in the Digital Age",
+        "edition": "1st",
+        "author": "Jonah Berger",
+        "publication_year": 2013,
+        "publication_month": 3,
+        "publication_day": 5
+    },
+    {
+        "id": 15,
+        "book": "Marketing",
+        "book_name": "Made to Stick: Why Some Ideas Survive and Others Die",
+        "edition": "1st",
+        "author": "Chip Heath, Dan Heath",
+        "publication_year": 2007,
+        "publication_month": 1,
+        "publication_day": 2
+    },
+    {
+        "id": 16,
+        "book": "Astronomy",
+        "book_name": "Astrophysics for People in a Hurry",
+        "edition": "1st",
+        "author": "Neil deGrasse Tyson",
+        "publication_year": 2017,
+        "publication_month": 5,
+        "publication_day": 2
+    },
+    {
+        "id": 17,
+        "book": "Astronomy",
+        "book_name": "The Universe in a Nutshell",
+        "edition": "1st",
+        "author": "Stephen Hawking",
+        "publication_year": 2001,
+        "publication_month": 11,
+        "publication_day": 6
+    },
+    {
+        "id": 18,
+        "book": "Electronics",
+        "book_name": "Electronics for Dummies",
+        "edition": "3rd",
+        "author": "Cathleen Shamieh",
+        "publication_year": 2019,
+        "publication_month": 1,
+        "publication_day": 23
+    },
+    {
+        "id": 19,
+        "book": "Electronics",
+        "book_name": "Fundamentals of Microelectronics",
+        "edition": "2nd",
+        "author": "Behzad Razavi",
+        "publication_year": 2013,
+        "publication_month": 11,
+        "publication_day": 26
+    },
+    {
+        "id": 20,
+        "book": "Programming",
+        "book_name": "Python Crash Course",
+        "edition": "2nd",
+        "author": "Eric Matthes",
+        "publication_year": 2019,
+        "publication_month": 5,
+        "publication_day": 3
+    },
+    {
+        "id": 21,
+        "book": "Programming",
+        "book_name": "You Don't Know JS: Scope & Closures",
+        "edition": "1st",
+        "author": "Kyle Simpson",
+        "publication_year": 2014,
+        "publication_month": 3,
+        "publication_day": 20
+    },
+    {
+        "id": 22,
+        "book": "Law",
+        "book_name": "Business Law: Text and Cases",
+        "edition": "14th",
+        "author": "Kenneth W. Clarkson, Roger LeRoy Miller, Frank B. Cross",
+        "publication_year": 2017,
+        "publication_month": 1,
+        "publication_day": 1
+    },
+    {
+        "id": 23,
+        "book": "Law",
+        "book_name": "Contract Law for Dummies",
+        "edition": "1st",
+        "author": "Scott J. Burnham",
+        "publication_year": 2011,
+        "publication_month": 1,
+        "publication_day": 6
+    },
+    {
+        "id": 24,
+        "book": "Marketing",
+        "book_name": "Purple Cow: Transform Your Business by Being Remarkable",
+        "edition": "1st",
+        "author": "Seth Godin",
+        "publication_year": 2003,
+        "publication_month": 5,
+        "publication_day": 1
+    },
+    {
+        "id": 25,
+        "book": "Marketing",
+        "book_name": "This Is Marketing: You Can't Be Seen Until You Learn to See",
+        "edition": "1st",
+        "author": "Seth Godin",
+        "publication_year": 2018,
+        "publication_month": 11,
+        "publication_day": 13
+    },
+    {
+        "id": 26,
+        "book": "Astronomy",
+        "book_name": "The Astrophysics of Planet Formation",
+        "edition": "2nd",
+        "author": "Phil Armitage",
+        "publication_year": 2020,
+        "publication_month": 1,
+        "publication_day": 30
+    },
+    {
+        "id": 27,
+        "book": "Astronomy",
+        "book_name": "An Introduction to Modern Astrophysics",
+        "edition": "2nd",
+        "author": "Bradley W. Carroll, Dale A. Ostlie",
+        "publication_year": 2017,
+        "publication_month": 1,
+        "publication_day": 1
+    },
+    {
+        "id": 28,
+        "book": "Electronics",
+        "book_name": "Embedded Systems: Introduction to Arm Cortex-M Microcontrollers",
+        "edition": "5th",
+        "author": "Jonathan W. Valvano",
+        "publication_year": 2021,
+        "publication_month": 6,
+        "publication_day": 1
+    },
+    {
+        "id": 29,
+        "book": "Programming",
+        "book_name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "edition": "1st",
+        "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+        "publication_year": 1994,
+        "publication_month": 10,
+        "publication_day": 31
+    },
+    {
+        "id": 30,
+        "book": "Marketing",
+        "book_name": "Building a StoryBrand: Clarify Your Message So Customers Will Listen",
+        "edition": "1st",
+        "author": "Donald Miller",
+        "publication_year": 2017,
+        "publication_month": 10,
+        "publication_day": 10
+    }
+]
