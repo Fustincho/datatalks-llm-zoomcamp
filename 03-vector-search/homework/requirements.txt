@@ -1,0 +1,4 @@
+elasticsearch==8.14.0
+sentence-transformers==3.0.1
+ipykernel
+pandas==2.2.2
